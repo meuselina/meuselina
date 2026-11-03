@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://selinameusel.netlify.app"><img src="https://img.shields.io/badge/Portfolio-selinameusel.netlify.app-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://selinameusel.com"><img src="https://img.shields.io/badge/Portfolio-selinameusel.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/selinameusel"><img src="https://img.shields.io/badge/LinkedIn-selinameusel-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:selina.meusel@icloud.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -60,7 +60,7 @@ I build things that make complex information easier to understand, right where *
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql,git,github,githubactions,vscode,netlify&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql,git,github,githubactions,vscode,cloudflare&perline=12" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ I build things that make complex information easier to understand, right where *
     <td width="50%" valign="top">
       <h3><a href="https://github.com/meuselina/My-personal-website-and-CV">🌐 Personal website</a></h3>
       Trilingual portfolio (EN / DE / ZH) with newsletter and an AI agents section.<br/><br/>
-      <a href="https://selinameusel.netlify.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Live" /></a>
+      <a href="https://selinameusel.com"><img src="https://img.shields.io/badge/Live-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Live" /></a>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -135,7 +135,7 @@ I build things that make complex information easier to understand, right where *
 I'm looking for a **summer 2027 internship** (free from May to September) in **AI engineering or full stack**, ideally at an early-stage startup where I can ship real things. If that sounds like your team, I'd love to hear from you.
 
 <p align="center">
-  <a href="https://selinameusel.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://selinameusel.com"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/selinameusel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:selina.meusel@icloud.com"><img src="https://img.shields.io/badge/selina.meusel%40icloud.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
