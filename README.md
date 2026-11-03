@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=200&section=header&text=Hi,%20I'm%20Selina&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%40%20CODE%20Berlin%20%C2%B7%20AI%20agents%20%26%20automation&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=200&section=header&text=Hi,%20I'm%20Selina&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20%40%20CODE%20Berlin%20%C2%B7%20AI%20agents%20and%20automation&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://github.com/meuselina">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&lines=I+build+AI+agents+and+automations;Code+%C3%97+Design+%C3%97+Psychology;Head+of+Marketing+%40+mitJulia;Open+to+a+summer+2027+internship" alt="Typing SVG" />
