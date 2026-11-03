@@ -66,21 +66,13 @@ I build things that make complex information easier to understand, right where *
 An 11 stage pipeline that turns an architect's plans into a millimetre accurate 3D model, verified floor plans and living areas, photoreal renderings and a finished brochure layout. Built for residential developers in Germany, Austria and Switzerland. The code is private, so here is the architecture instead.
 
 <p align="center">
-  <img src="https://github.com/meuselina/meuselina/raw/main/media/aichitect-roadmap.png" width="100%" alt="AIchitect roadmap: 11 pipeline stages from intake to deliver" />
-</p>
-
-<details>
-<summary><b>What a pipeline run looks like</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github.com/meuselina/meuselina/raw/main/media/aichitect-pipeline-run.png" width="80%" alt="Terminal output of a full pipeline run on the sample house" />
+  <img src="https://github.com/meuselina/meuselina/raw/main/media/aichitect-overview.png" width="100%" alt="AIchitect roadmap: 11 pipeline stages from intake to deliver" />
 </p>
 
 - **One source of truth:** the 3D model is never edited by hand, it is always rebuilt from the building plan
 - **Independent stages:** every stage has a fixed input and output contract and can be rerun on its own
 - **Selective rebuild:** change a wall color and only the stages that depend on it run again
-- **Verified geometry:** the model is measured back to 2D and diffed against the plan, max deviation 0.3 mm on the sample house
-</details>
+- **Verified geometry:** the model is measured back to 2D and compared with the plan, max deviation 0.3 mm on the sample house
 
 ## 🛠️ Tech stack
 
