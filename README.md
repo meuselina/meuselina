@@ -9,6 +9,7 @@
 <p>
   <a href="https://selinameusel.com"><img src="https://img.shields.io/badge/Portfolio-selinameusel.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/selinameusel"><img src="https://img.shields.io/badge/LinkedIn-selinameusel-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://selinameusel.com/assets/Selina_Meusel_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-22c55e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV" /></a>
   <a href="mailto:selina.meusel@icloud.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -37,8 +38,9 @@ I build things that make complex information easier to understand, right where *
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ Floor Plan to Magazine</h3>
+      <h3>🏛️ AIchitect</h3>
       A Python pipeline that turns an architect's DWG files and floor plans into a 3D model, V-Ray and Veras renders and a print-ready magazine for client presentations. It runs end to end and takes <b>about a week instead of three months</b>. I did the analysis, research, automation and the first version of the code.
+      <br/><br/><a href="#aichitect">See the roadmap ↓</a>
     </td>
     <td width="50%" valign="top">
       <h3>📞 Head of Marketing @ <a href="https://friseurtelefon.de">mitJulia</a></h3>
@@ -56,6 +58,29 @@ I build things that make complex information easier to understand, right where *
     </td>
   </tr>
 </table>
+
+<a id="aichitect"></a>
+
+## 🏛️ AIchitect: from floor plan to sales brochure
+
+An 11 stage pipeline that turns an architect's plans into a millimetre accurate 3D model, verified floor plans and living areas, photoreal renderings and a finished brochure layout. Built for residential developers in Germany, Austria and Switzerland. The code is private, so here is the architecture instead.
+
+<p align="center">
+  <img src="https://github.com/meuselina/meuselina/raw/main/media/aichitect-roadmap.png" width="100%" alt="AIchitect roadmap: 11 pipeline stages from intake to deliver" />
+</p>
+
+<details>
+<summary><b>What a pipeline run looks like</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github.com/meuselina/meuselina/raw/main/media/aichitect-pipeline-run.png" width="80%" alt="Terminal output of a full pipeline run on the sample house" />
+</p>
+
+- **One source of truth:** the 3D model is never edited by hand, it is always rebuilt from the building plan
+- **Independent stages:** every stage has a fixed input and output contract and can be rerun on its own
+- **Selective rebuild:** change a wall color and only the stages that depend on it run again
+- **Verified geometry:** the model is measured back to 2D and diffed against the plan, max deviation 0.3 mm on the sample house
+</details>
 
 ## 🛠️ Tech stack
 
@@ -137,6 +162,7 @@ I'm looking for a **summer 2027 internship** (free from May to September) in **A
 <p align="center">
   <a href="https://selinameusel.com"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/selinameusel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://selinameusel.com/assets/Selina_Meusel_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-22c55e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV" /></a>
   <a href="mailto:selina.meusel@icloud.com"><img src="https://img.shields.io/badge/selina.meusel%40icloud.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
