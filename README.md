@@ -74,6 +74,29 @@ An 11 stage pipeline that turns an architect's plans into a millimetre accurate 
 - **Selective rebuild:** change a wall color and only the stages that depend on it run again
 - **Verified geometry:** the model is measured back to 2D and compared with the plan, max deviation 0.3 mm on the sample house
 
+<a id="medics"></a>
+
+## 🧴 Medics: a skin analysis that explains itself
+
+Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An app that reads your skin from three guided photos and a short quiz, explains in plain words what it sees, and suggests one safety-checked cream made by a certified lab. The code lives in a private group repo, so here is the overview instead.
+
+<p align="center">
+  <img src="https://github.com/meuselina/meuselina/raw/main/media/medics-overview.png" width="100%" alt="Medics overview: ten steps from three photos to one safety-checked cream" />
+</p>
+
+- **Research first:** 18 interviews with 21 people and a survey with 37 answers led to seven insights, for example "Trust is the product" and "Custom reads as pricier, not better"
+- **Model with guardrails:** a three-photo pipeline with clinical image filters, the ABCD rule and the 7-point checklist, and a multi-view ConvNeXt. Low confidence becomes "uncertain", red flags send you to a dermatologist
+- **Fair by design:** balanced sampling over skin tones, every metric split by Fitzpatrick skin type, and a biopsy-proven test set kept untouched
+- **Safe formula:** allergies and reactions become a never-in-your-formula list, actives stay within EU limits and conflicting combinations are blocked
+
+<details>
+<summary><b>The app prototype (36 screens)</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github.com/meuselina/meuselina/raw/main/media/medics-app-screens.png" width="90%" alt="mira app prototype screens: welcome, photo guide, camera, results, safety profile, ingredients, formula, order" />
+</p>
+</details>
+
 ## 🛠️ Tech stack
 
 <p align="center">
@@ -90,6 +113,16 @@ An 11 stage pipeline that turns an architect's plans into a millimetre accurate 
 ## 📂 Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="#medics">🧴 Medics</a></h3>
+      AI skin analysis from three photos that explains what it sees and suggests one safety-checked cream. Group project at CODE University, with user research, a 36-screen app prototype and a skin analysis pipeline in Python. <a href="#medics">See the overview ↓</a><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Prototype-HTML%20%2F%20JS-1f2937?style=flat-square" alt="Prototype" />
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/meuselina/Vibolingo">🏆 Vibolingo</a></h3>
