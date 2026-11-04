@@ -81,7 +81,7 @@ An 11 stage pipeline that turns an architect's plans into a millimetre accurate 
 Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An app that reads your skin from three guided photos and a short quiz, explains in plain words what it sees, and suggests one safety-checked cream made by a certified lab. The code lives in a private group repo, so here is the overview instead.
 
 <p align="center">
-  <img src="https://github.com/meuselina/meuselina/raw/main/media/medics-overview.png" width="100%" alt="Medics overview: ten steps from three photos to one safety-checked cream" />
+  <img src="https://github.com/meuselina/meuselina/raw/main/media/medics-overview-poster.png" width="100%" alt="Medics overview: ten steps from three photos to one safety-checked cream" />
 </p>
 
 - **Research first:** 18 interviews with 21 people and a survey with 37 answers led to seven insights, for example "Trust is the product" and "Custom reads as pricier, not better"
