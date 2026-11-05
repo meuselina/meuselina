@@ -157,15 +157,15 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   <tr>
     <td width="50%" valign="top">
       <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear11.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/binary-trees">Binary Trees</a></h3>
-      Binary tree algorithms: traversals, height, search and insert.<br/><br/>
+      Binary tree algorithms: traversals, height, search, insert and delete.<br/><br/>
       <img src="https://img.shields.io/badge/Java-3E6B4F?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/tests-19%20passing-173D30?style=flat-square&labelColor=0F2A20" alt="19 tests" />
+      <img src="https://img.shields.io/badge/tests-27%20passing-173D30?style=flat-square&labelColor=0F2A20" alt="19 tests" />
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear02.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/java-calculator">Calculator</a></h3>
-      Console calculator with input validation and big number support.<br/><br/>
+      Console calculator with input validation and huge results shown in full.<br/><br/>
       <img src="https://img.shields.io/badge/Java-1E4A3B?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/tests-15%20passing-2F5A3E?style=flat-square&labelColor=0F2A20" alt="15 tests" />
+      <img src="https://img.shields.io/badge/tests-18%20passing-2F5A3E?style=flat-square&labelColor=0F2A20" alt="15 tests" />
     </td>
   </tr>
 </table>
