@@ -23,37 +23,37 @@
 
 ---
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear01.png" height="44" alt="" /> About me
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear01.png" height="44" align="middle" alt="" /> About me
 
 Software Engineering student at **CODE University of Applied Sciences** in Berlin.
 I build things that make complex information easier to understand, right where **code, design and psychology** meet.
 
-- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear11.png" height="28" alt="" /> Started coding at 15 in an advanced computer science course at school
-- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear10.png" height="28" alt="" /> Spent a year in **San Francisco**: AI & operations internship at a psychology coaching practice, au pair, and a **Stanford Continuing Studies** program in technology leadership
-- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear09.png" height="28" alt="" /> **2nd place** at the CODE Hackathon with Vibolingo
-- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear13.png" height="28" alt="" /> German · English · Chinese (HSK 3)
+- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear11.png" height="28" align="middle" alt="" /> Started coding at 15 in an advanced computer science course at school
+- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear10.png" height="28" align="middle" alt="" /> Spent a year in **San Francisco**: AI & operations internship at a psychology coaching practice, au pair, and a **Stanford Continuing Studies** program in technology leadership
+- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear09.png" height="28" align="middle" alt="" /> **2nd place** at the CODE Hackathon with Vibolingo
+- <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear13.png" height="28" align="middle" alt="" /> German · English · Chinese (HSK 3)
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear05.png" height="44" alt="" /> What I'm working on
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear05.png" height="44" align="middle" alt="" /> What I'm working on
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear08.png" height="36" alt="" /> AIchitect</h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear08.png" height="36" align="middle" alt="" /> AIchitect</h3>
       A Python pipeline that turns an architect's DWG files and floor plans into a 3D model, V-Ray and Veras renders and a print-ready magazine for client presentations. It runs end to end and takes <b>about a week instead of three months</b>. I did the analysis, research, automation and the first version of the code.
       <br/><br/><a href="#aichitect">See the roadmap ↓</a>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear15.png" height="36" alt="" /> Head of Marketing @ <a href="https://friseurtelefon.de">mitJulia</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear15.png" height="36" align="middle" alt="" /> Head of Marketing @ <a href="https://friseurtelefon.de">mitJulia</a></h3>
       An AI receptionist that picks up the phone for hair salons. I own content strategy, video scripts and Meta Ads on our way to <b>1M ARR</b>.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear06.png" height="36" alt="" /> Focus display</h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear06.png" height="36" align="middle" alt="" /> Focus display</h3>
       Built with my Software Engineering professor: a small hardware screen next to your computer that shows whether your code is still running and whether you're heads-down or free to talk.
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear04.png" height="36" alt="" /> My own AI agents on Claude</h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear04.png" height="36" align="middle" alt="" /> My own AI agents on Claude</h3>
       A morning briefing from my inbox and calendar, an agent that turns emails into calendar events, a weekly bilingual newsletter and an evening Chinese vocab tutor.
     </td>
   </tr>
@@ -61,7 +61,7 @@ I build things that make complex information easier to understand, right where *
 
 <a id="aichitect"></a>
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear08.png" height="44" alt="" /> AIchitect: from floor plan to sales brochure
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear08.png" height="44" align="middle" alt="" /> AIchitect: from floor plan to sales brochure
 
 An 11 stage pipeline that turns an architect's plans into a millimetre accurate 3D model, verified floor plans and living areas, photoreal renderings and a finished brochure layout. Built for residential developers in Germany, Austria and Switzerland. The code is private, so here is the architecture instead.
 
@@ -76,7 +76,7 @@ An 11 stage pipeline that turns an architect's plans into a millimetre accurate 
 
 <a id="medics"></a>
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear07.png" height="44" alt="" /> Medics: a skin analysis that explains itself
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear07.png" height="44" align="middle" alt="" /> Medics: a skin analysis that explains itself
 
 Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An app that reads your skin from three guided photos and a short quiz, explains in plain words what it sees, and suggests one safety-checked cream made by a certified lab. The code lives in a private group repo, so here is the overview instead.
 
@@ -97,7 +97,7 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
 </p>
 </details>
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear02.png" height="44" alt="" /> Tech stack
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear02.png" height="44" align="middle" alt="" /> Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql,git,github,githubactions,vscode,cloudflare&perline=12" alt="Tech stack" />
@@ -110,12 +110,12 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   <img src="https://img.shields.io/badge/TypeScript-learning-3E6B4F?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0F2A20" alt="TypeScript (learning)" />
 </p>
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear14.png" height="44" alt="" /> Featured projects
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear14.png" height="44" align="middle" alt="" /> Featured projects
 
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear07.png" height="36" alt="" /> <a href="#medics">Medics</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear07.png" height="36" align="middle" alt="" /> <a href="#medics">Medics</a></h3>
       AI skin analysis from three photos that explains what it sees and suggests one safety-checked cream. Group project at CODE University, with user research, a 36-screen app prototype and a skin analysis pipeline in Python. <a href="#medics">See the overview ↓</a><br/><br/>
       <img src="https://img.shields.io/badge/Python-173D30?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/PyTorch-1E4A3B?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -125,14 +125,14 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear09.png" height="36" alt="" /> <a href="https://github.com/meuselina/Vibolingo">Vibolingo</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear09.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/Vibolingo">Vibolingo</a></h3>
       2nd place at the CODE Hackathon. "Duolingo for vibe coding": five minute lessons that teach people how to direct AI to build real apps.<br/><br/>
       <a href="https://meuselina.github.io/Vibolingo/"><img src="https://img.shields.io/badge/Live%20demo-173D30?style=flat-square&logo=githubpages&logoColor=white" alt="Live demo" /></a>
       <img src="https://img.shields.io/badge/HTML-1E4A3B?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/JavaScript-2F5A3E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear13.png" height="36" alt="" /> <a href="https://github.com/meuselina/My-personal-website-and-CV">Personal website</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear13.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/My-personal-website-and-CV">Personal website</a></h3>
       Trilingual portfolio (EN / DE / ZH) with newsletter and an AI agents section.<br/><br/>
       <a href="https://selinameusel.com"><img src="https://img.shields.io/badge/Live-3E6B4F?style=flat-square&logo=cloudflare&logoColor=white" alt="Live" /></a>
       <img src="https://img.shields.io/badge/HTML-173D30?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -142,13 +142,13 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear05.png" height="36" alt="" /> <a href="https://github.com/meuselina/image-simplifier">Image Simplifier</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear05.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/image-simplifier">Image Simplifier</a></h3>
       Command line tool that shrinks PNG files by merging similar colors (color quantization).<br/><br/>
       <img src="https://img.shields.io/badge/Java-3E6B4F?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/CLI-173D30?style=flat-square" alt="CLI" />
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear15.png" height="36" alt="" /> <a href="https://github.com/meuselina/Shop-coded-with-Java">Fashion shop</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear15.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/Shop-coded-with-Java">Fashion shop</a></h3>
       Desktop shop app with categories, search and price sorting, built with inheritance.<br/><br/>
       <img src="https://img.shields.io/badge/Java-1E4A3B?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Swing-2F5A3E?style=flat-square" alt="Swing" />
@@ -156,13 +156,13 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear11.png" height="36" alt="" /> <a href="https://github.com/meuselina/binary-trees">Binary Trees</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear11.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/binary-trees">Binary Trees</a></h3>
       Binary tree algorithms: traversals, height, search and insert.<br/><br/>
       <img src="https://img.shields.io/badge/Java-3E6B4F?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/tests-19%20passing-173D30?style=flat-square&labelColor=0F2A20" alt="19 tests" />
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear02.png" height="36" alt="" /> <a href="https://github.com/meuselina/java-calculator">Calculator</a></h3>
+      <h3><img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear02.png" height="36" align="middle" alt="" /> <a href="https://github.com/meuselina/java-calculator">Calculator</a></h3>
       Console calculator with input validation and big number support.<br/><br/>
       <img src="https://img.shields.io/badge/Java-1E4A3B?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/tests-15%20passing-2F5A3E?style=flat-square&labelColor=0F2A20" alt="15 tests" />
@@ -170,7 +170,7 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   </tr>
 </table>
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear03.png" height="44" alt="" /> Contribution snake
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear03.png" height="44" align="middle" alt="" /> Contribution snake
 
 <p align="center">
   <picture>
@@ -180,7 +180,7 @@ Group project at CODE University (Group 23, with Mario, Larissa and Nikolas). An
   </picture>
 </p>
 
-## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear12.png" height="44" alt="" /> Let's connect
+## <img src="https://github.com/meuselina/meuselina/raw/main/media/bears/bear12.png" height="44" align="middle" alt="" /> Let's connect
 
 I'm looking for a **summer 2027 internship** (free from May to September) in **AI engineering or full stack**, ideally at an early-stage startup where I can ship real things. If that sounds like your team, I'd love to hear from you.
 
